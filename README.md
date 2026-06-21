@@ -8,7 +8,7 @@ Open Sanskrit-English parallel corpus and Indian heritage NLP datasets.
 
 **Status:** Phase 1 — building the foundation dataset (in development)
 **License:** [CC BY-SA 4.0](LICENSE)
-**Founder:** Shivam (https://github.com/BookWanderer))
+**Founder:** Shivam ((https://github.com/bhagatshivam))
 
 ---
 
