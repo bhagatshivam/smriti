@@ -1,0 +1,35 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.venv/
+venv/
+env/
+build/
+dist/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Editors
+.vscode/
+.idea/
+
+# Environment / secrets
+.env
+*.env
+
+# Large/raw downloads you don't want to commit accidentally
+*.zip
+*.tar.gz
+
+# Keep raw + processed data tracked — comment these out only if a file
+# turns out to be too large for git, then consider Git LFS instead.
+# data/raw/**/*.html
+# data/raw/**/*.xml
